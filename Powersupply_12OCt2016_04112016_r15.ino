@@ -40,7 +40,7 @@ void setup() {
   pinMode(5, INPUT_PULLUP);
   pinMode(6, INPUT_PULLUP);
   
-  placeV = 3; //init mode is volts
+  placeV = 0; //init mode is volts
   
   //Serial.println(test);
   //delay(5000);
